@@ -3,7 +3,7 @@ print("--------------------------------")
 print (" -- FUNCIONES VERSION 2 -- ")
 print ("Janna Ramirez")
 celulares=["Samsung A52", "iPhone 15", "Chafa"]
-perro=["Pug", "Husky", "Labrador"]
+perro=("Pug", "Husky", "Labrador")
 
 # ZONA DE FUNCIONES
 # LISTAS
